@@ -1,0 +1,25 @@
+.Title{
+    text-align: center;
+  }
+  .row{
+    text-align: center;
+    padding-top: 20px;
+  }
+  .input{
+    padding: 5px;
+    border:solid black 3px;
+    text-align: center;
+    
+    
+  }
+  .row button{
+    padding: 13px;
+    margin: 1px;
+    border:solid black 3px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+  
+  }
+  
